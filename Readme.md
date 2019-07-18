@@ -1,8 +1,8 @@
 STM32F746G-Discovery project stub
 ======
-Building a compilable project stub for sucha complicated board is not trivial.
+Building a compilable project stub for such a complicated board is not trivial.
 
-Now you are welcome to use this stub.  
+Now you are welcome to use this stub.
 
 Tools to be used with:
 ---
